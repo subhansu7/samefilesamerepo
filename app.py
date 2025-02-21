@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, requester
+from flask import awsFlask, jsonify, requester
 
 app = Flask(__name__)
 
