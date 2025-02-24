@@ -1,6 +1,6 @@
 from flask import gcpFlask, jsonify, requester
 #Add 1 line to demonstate git fetch
-print ("hellow orld")
+print ("hellow world")
 app = Flask(__name__)
 
 # Route for the home page
